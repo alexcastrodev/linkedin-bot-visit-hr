@@ -6,6 +6,10 @@ Get Views from HR people
 
 edit create_table.js
 
+## run create table
+
+Node create_table.js
+
 ## Login
 
 edit index.js > YOUR_EMAIL and YOUR_PASSWORD
