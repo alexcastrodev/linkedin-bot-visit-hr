@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/linkedin-bot-visit-hr
 report_id: 49a5c7177ea39744b89e56fc1ce23150
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:18:10+00:00'
+timestamp: '2024-01-05T08:11:33+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/linkedin-bot-visit-hr
   detection_source: Repo Metadata
 - name: SQLite
   description: A software library that implements a self-contained, serverless, zero-configuration,
@@ -27,6 +28,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/AlexcastroDev/linkedin-bot-visit-hr/blob/main/package.json
   detection_source: package.json
   last_updated_by: Alexandro castro
   last_updated_on: 2020-10-27 21:55:50.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/linkedin-bot-visit-hr
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -47,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/AlexcastroDev/linkedin-bot-visit-hr/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Alexandro castro
   last_updated_on: 2020-10-27 21:55:50.000000000 Z
@@ -58,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/linkedin-bot-visit-hr/blob/main/package.json
   detection_source: package.json
   last_updated_by: Alexandro castro
   last_updated_on: 2020-10-27 21:55:50.000000000 Z
